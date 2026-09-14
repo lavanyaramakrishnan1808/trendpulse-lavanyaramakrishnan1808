@@ -1,0 +1,95 @@
+post_id,title,category,score,num_comments,author,collected_at
+49638510,Spaceships (Reverse Asteroid),science,133,27,zdw,2026-09-14 06:02:34.900893+00:00
+49690260,Open-Source AI and Open Models Reading List,technology,77,7,simonpure,2026-09-14 06:02:36.336134+00:00
+49690554,The case against JPEG XL,technology,91,114,contact9879,2026-09-14 06:02:37.152774+00:00
+49690174,Apple's Dimensional Drawings,technology,115,35,herbertl,2026-09-14 06:02:37.869391+00:00
+49662246,"Rope, twine and thread: Invisible technologies of the Stone Age",technology,26,1,knowablemag,2026-09-14 06:02:39.305565+00:00
+49692118,Who Gets to Define the Rules for AI?,technology,10,5,throwworhtthrow,2026-09-14 06:02:40.020702+00:00
+49690678,The Malicious Use of Artificial Intelligence,technology,36,9,rasengan0,2026-09-14 06:02:40.740357+00:00
+49642645,Julia 1.13 highlights,technology,195,16,eigenspace,2026-09-14 06:02:41.453575+00:00
+49683953,Data collected by cars and sold to third parties,technology,370,198,bookofjoe,2026-09-14 06:02:42.272123+00:00
+49688391,Flawed routers flood University of Wisconsin internet time server (2003),technology,76,8,walrus01,2026-09-14 06:02:45.140071+00:00
+49645654,"Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",technology,15,2,fdeth,2026-09-14 06:02:46.575745+00:00
+49684196,Making Startups Powerful,technology,191,85,tosh,2026-09-14 06:02:47.290464+00:00
+49683262,Why is the x86 undefined instruction called ud2? Why 2?,worldnews,237,55,ibobev,2026-09-14 06:02:48.007774+00:00
+49690139,"""Chilling"" warning or overreaction? AI bioweapons report divides experts",technology,24,10,sbulaev,2026-09-14 06:02:48.829678+00:00
+49684356,CUDA for AMD on Windows,technology,150,78,chiassedu80,2026-09-14 06:02:50.260975+00:00
+49691584,"Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",technology,25,8,kristianp,2026-09-14 06:02:50.976448+00:00
+49690614,Show HN: Exploring the intersection of prediction markets and social media,entertainment,9,1,ryanpere2298,2026-09-14 06:02:51.796488+00:00
+49653311,Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace,technology,75,18,rzk,2026-09-14 06:02:52.514372+00:00
+49690051,The Coming War on General Computation (2011),worldnews,79,23,gregsadetsky,2026-09-14 06:02:53.334537+00:00
+49643059,Bad code is kudzu,technology,57,16,surprisetalk,2026-09-14 06:02:54.870028+00:00
+49691152,"OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",technology,15,2,negura,2026-09-14 06:02:55.565919+00:00
+49651567,Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025),technology,84,24,binyu,2026-09-14 06:02:56.302301+00:00
+49685253,"Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",technology,381,212,TheJCDenton,2026-09-14 06:02:58.414592+00:00
+49685991,David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models,technology,293,214,kolanos,2026-09-14 06:02:59.785510+00:00
+49692344,Airbnb Preventing the Use of BnB,technology,6,1,cycomanic,2026-09-14 06:03:00.500889+00:00
+49638071,Reverse engineering my e-scooter and rewriting the firmware in Rust,technology,405,95,vinhnx,2026-09-14 06:03:01.219086+00:00
+49683033,'Fingerprints' inside the Sun could reveal if it once swallowed a planet,technology,119,40,blincoln,2026-09-14 06:03:02.652421+00:00
+49685037,Libraries Run Rust Inside Python (With PyO3),technology,62,33,lumpa,2026-09-14 06:03:03.369398+00:00
+49691455,Turkish authorities launch crackdown on LGBTQ+ and HIV support groups,worldnews,16,0,andsoitis,2026-09-14 06:03:12.071268+00:00
+49679637,After Math,science,137,147,throwaway81523,2026-09-14 06:03:14.324593+00:00
+49686134,Romania soccer introduces black card to 'combat abusive behaviour' from parents,sports,110,66,thunderbong,2026-09-14 06:03:18.625811+00:00
+49679734,A wandering black hole caught feeding on the run,worldnews,61,55,wglb,2026-09-14 06:03:29.787686+00:00
+49686952,Built a Lego minifigure configurator. Shuffle until something makes you laugh,worldnews,10,4,fvitas,2026-09-14 06:03:34.189641+00:00
+49672842,I made a build visualizer to understand Bun's compile times,worldnews,166,30,lalitmaganti,2026-09-14 06:03:39.825587+00:00
+49689886,Former CIA official found with $40M in gold bars reaches tentative plea deal,worldnews,12,8,Jimmc414,2026-09-14 06:03:45.966040+00:00
+49688500,Jason Arday and the Corruption of Science,science,29,0,kgwgk,2026-09-14 06:03:48.935205+00:00
+49677577,Don't be the out of touch Kung Fu master,worldnews,253,389,dsubburam,2026-09-14 06:03:51.839311+00:00
+49678432,No Atlantic hurricanes by Sept. 12 breaks a 60-year record,science,89,62,RickJWagner,2026-09-14 06:04:10.236925+00:00
+49649789,Show HN: Bodily Oddities,entertainment,335,211,vesterde,2026-09-14 06:04:11.054119+00:00
+49690084,The biggest dinosaurs couldn't sit on their eggs,science,5,1,BiraIgnacio,2026-09-14 06:04:14.946110+00:00
+49691129,A.I. Slopware Is Everywhere Now. Nobody Is Using It,worldnews,14,3,walterbell,2026-09-14 06:04:16.380449+00:00
+49624717,AlphaGenome maps 9B DNA variants,science,104,7,ltononro,2026-09-14 06:04:18.533228+00:00
+49689377,Physicists can't agree on how the Universe works,worldnews,6,1,gradus_ad,2026-09-14 06:04:21.804747+00:00
+49689815,"Three Body Orbits – 3,915 periodic three-body orbits, visualized",science,5,1,thunderbong,2026-09-14 06:04:25.597084+00:00
+49668706,Navier-Stokes Announcement,worldnews,335,287,rvz,2026-09-14 06:04:26.313889+00:00
+49681268,"Texts Reveal Kash Patel Ordering Staff to Fight ""Ifindretards"" Account",worldnews,80,3,girish_r,2026-09-14 06:04:34.968167+00:00
+49655286,Cherenkov Radiation,science,234,109,andsoitis,2026-09-14 06:04:36.552723+00:00
+49652105,Google will buy half the electricity from one of Finland's nuclear power plants,science,376,355,lukaspetersson,2026-09-14 06:04:40.801253+00:00
+49624456,Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them,science,159,48,bookofjoe,2026-09-14 06:04:43.719304+00:00
+49634928,Testing Race Conditions,sports,65,4,alpaylan,2026-09-14 06:04:54.138842+00:00
+49610780,"To write non-fiction, draw the trunk, then the rest of the tree",worldnews,114,34,DanielVZ,2026-09-14 06:04:55.598840+00:00
+49629209,The UN challenges five centuries of cartography,worldnews,134,308,speckx,2026-09-14 06:05:08.385736+00:00
+49642396,SystemIO conflicts are not firmware bugs,worldnews,38,6,haeseong,2026-09-14 06:05:17.082586+00:00
+49645754,Silicon Valley is transforming the military-industrial complex? (2024),worldnews,181,378,paimapi,2026-09-14 06:05:22.838093+00:00
+49677480,Show HN: What If Donut.c but with Any ASCII Art,entertainment,17,3,areofyl,2026-09-14 06:05:24.251743+00:00
+49637385,Show HN: What if the speed of light was 5 km/h?,entertainment,624,283,dmitrybrant,2026-09-14 06:05:25.710963+00:00
+49653683,Metamorphosis: Transformations in the Early Modern Flap Book (19th Century),entertainment,6,0,benbreen,2026-09-14 06:05:32.668132+00:00
+49660576,Global Glacier Extinction Explorer,science,158,64,guillego,2026-09-14 06:05:34.100961+00:00
+49679717,MacFileSizing – What is consuming my disk space?,science,8,2,jaccon,2026-09-14 06:05:35.536045+00:00
+49672557,"Europe's ""Less"" Is Doing More Than Anyone Gives It Credit For",worldnews,107,60,u1hcw9nx,2026-09-14 06:05:39.224559+00:00
+49628429,Planet Labs' open satellite feed,science,188,34,marklit,2026-09-14 06:05:42.396269+00:00
+49685679,US Military tests quantum sensors for flight navigation without GPS over Pacific,worldnews,9,1,marklit,2026-09-14 06:05:47.721448+00:00
+49623398,Show HN: Compute polynomials twice as fast,entertainment,139,42,thomasahle,2026-09-14 06:05:54.111469+00:00
+49647134,Music Theory for the 21st-Century Classroom,entertainment,302,146,aanet,2026-09-14 06:05:54.889040+00:00
+49683844,"Mars astronauts could live in houses made of yeast and jello, say scientists",science,12,6,Bender,2026-09-14 06:05:59.183334+00:00
+49633534,Factoring RSA 260,entertainment,132,18,samyok,2026-09-14 06:06:00.013390+00:00
+49667375,Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies,science,143,86,upofadown,2026-09-14 06:06:03.798912+00:00
+49658302,"Re-Engineering YouTube for the Living Room: Bringing ""Chrobalt"" to RDK",entertainment,37,12,losgehts,2026-09-14 06:06:09.439858+00:00
+49611251,AlphaGenome Atlas: a high-resolution map of human DNA,science,604,133,utiiiD,2026-09-14 06:06:10.146935+00:00
+49677916,Japan's book scene is quietly moving from bookstores to libraries,entertainment,31,1,herbertl,2026-09-14 06:06:13.630091+00:00
+49630125,"Show HN: DOOM in the kernel, or fibers in eBPF",entertainment,53,14,ayles,2026-09-14 06:06:20.394425+00:00
+49644647,The Four-Color Theorem Gets a Rare New Proof,science,58,12,pavel_lishin,2026-09-14 06:06:29.091738+00:00
+49627634,Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls,worldnews,321,292,thelastgallon,2026-09-14 06:06:31.238835+00:00
+49677391,Financial Times' 404 Page not Found,worldnews,79,13,sans_souse,2026-09-14 06:06:34.110656+00:00
+49620760,Testing race conditions with mem access tracing and stack-based delay injection,sports,19,1,mfrw,2026-09-14 06:06:58.274918+00:00
+49610641,AlphaGenome Atlas predictive map of every DNA letter change in the human genome,science,91,13,fady0,2026-09-14 06:06:59.709363+00:00
+49645826,Casablanca: How an unproduced play marched into movie history,worldnews,53,19,mdp2021,2026-09-14 06:07:01.348086+00:00
+49618050,"A Topological Picture Book, Rendered",entertainment,146,16,mathgenius,2026-09-14 06:07:03.597976+00:00
+49611230,ZX Spectrum: Experimenting with 1-Bit Sound,worldnews,108,37,ibobev,2026-09-14 06:07:07.803364+00:00
+49635384,Blizzard Workers Win Historic Union Contract,worldnews,251,110,dbg31415,2026-09-14 06:07:09.743732+00:00
+49681346,"Deepfakes are wrecking influencers' credibility, one fake ad at a time",sports,10,2,andsoitis,2026-09-14 06:07:20.084858+00:00
+49653328,Exercise intensity is associated with cardiometabolic health,science,139,73,qclibre22,2026-09-14 06:07:29.300272+00:00
+49637544,Experimental Evaluation Methodology for the Era of No Steady Performance [pdf],science,6,1,luu,2026-09-14 06:07:30.938723+00:00
+49616257,"Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",entertainment,277,155,Argonautlabs,2026-09-14 06:07:31.758626+00:00
+49678918,Scientists Create a New Form of Ice at More Than 2000°C,science,20,7,jnord,2026-09-14 06:07:41.382846+00:00
+49673081,Show HN: Yolov11n by C on Raspberry Pi 5,entertainment,5,0,kutekhoaisan,2026-09-14 06:07:42.919077+00:00
+49678711,Show HN: Most Penalized HN Stories,entertainment,19,3,jwarden,2026-09-14 06:07:46.708149+00:00
+49676728,Consumer Rights Wiki: 44 instances in which Sony says you own your games,entertainment,12,0,emptybits,2026-09-14 06:07:47.425659+00:00
+49680395,"Influential people don't network, they build social capital",sports,10,0,AntonZ234,2026-09-14 06:07:48.859359+00:00
+49652028,YuE2 · Frontier Music with Symbolic Planning,entertainment,108,100,sexy_seedbox,2026-09-14 06:08:03.708980+00:00
+49660833,I recently went through a translation of Musashi's Book of Five Rings,entertainment,12,1,tosh,2026-09-14 06:08:08.520625+00:00
+49665892,Show HN: Claude Read Aloud – Hear Claude's Replies Instead of Reading,entertainment,5,2,michaelgifford,2026-09-14 06:08:12.513912+00:00
+49621074,The Nonfiction Book Market is Collapsing?,entertainment,56,65,samclemens,2026-09-14 06:08:19.579954+00:00
+49678417,Vince Carter called out modern NBA players for checking social media at halftime,sports,5,0,hbcondo714,2026-09-14 06:08:27.259207+00:00
